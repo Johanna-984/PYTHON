@@ -1,22 +1,26 @@
 # PYTHON - PANDAS
-
 # Data Analysis with Python & Pandas 🐼
 
-Este repositorio contiene los proyectos, ejercicios y notas desarrollados para dominar la biblioteca Pandas para el análisis de datos del mundo real, desde la manipulación básica hasta la optimización de rendimiento.
+This repository contains the projects, exercises, and notes. The primary focus was mastering the Pandas library for real-world data analysis, ranging from basic manipulation to performance optimization.
 
-## 🚀 Objetivos del Proyecto
-El objetivo principal fue transicionar de un conocimiento básico de Python a un manejo profesional de estructuras de datos complejas, permitiendo realizar análisis exploratorios de datos (EDA) de manera eficiente.
+## 🚀 Project Objectives
+The main goal was to transition from basic Python knowledge to a professional handle of complex data structures, enabling efficient Exploratory Data Analysis (EDA) and data processing.
 
-## 🧠 Habilidades Adquiridas
+## 🧠 Skills Acquired
 
-* **Manipulación de Datos:** Dominio avanzado de objetos `Series` y `DataFrames`.
-* **File I/O:** Gestión profesional de entrada y salida de datos (CSV, Excel, etc.).
-* **Visualización:** Creación de gráficos efectivos para la presentación de hallazgos.
-* **Optimización:** Uso de configuraciones avanzadas de Pandas para mejorar el rendimiento con grandes volúmenes de datos.
-* **Limpieza de Datos:** Técnicas para manejar valores nulos y tipos de datos incorrectos.
+* **Data Manipulation:** Advanced mastery of `Series` and `DataFrame` objects.
+* **File I/O:** Professional management of data input and output (CSV, Excel, JSON, etc.).
+* **Data Visualization:** Creating effective plots and charts to present insights.
+* **Optimization:** Utilizing advanced Pandas settings to improve performance when handling large datasets.
+* **Data Cleaning:** Techniques for handling null values, duplicates, and incorrect data types (Data Wrangling).
 
-## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Python 3.9
-* **Librerías Principales:** Pandas, NumPy
-* **Visualización:** Matplotlib / Seaborn
-* **Entorno:** Jupyter Notebooks / VS Code
+## 🛠️ Technologies Used
+* **Language:** Python 3.x
+* **Core Libraries:** Pandas, NumPy
+* **Visualization:** Matplotlib / Seaborn
+* **Environment:** Jupyter Notebooks / VS Code
+
+## 📁 Repository Structure
+* `/notebooks`: Lessons organized by topic.
+* `/data`: Datasets used for practical exercises.
+* `/scripts`: Implementation examples for data cleaning and analysis.
