@@ -1,4 +1,3 @@
-# PYTHON - PANDAS
 # Data Analysis with Python & Pandas 🐼
 
 This repository contains the projects, exercises, and notes. The primary focus was mastering the Pandas library for real-world data analysis, ranging from basic manipulation to performance optimization.
